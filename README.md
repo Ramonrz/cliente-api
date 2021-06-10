@@ -43,5 +43,5 @@ $ docker-compose up --build
 http://localhost:8080/swagger-ui/#/clientes
 
 ## Health
-http://localhost:8080/actuator/info
-http://localhost:8080/actuator/health
+- http://localhost:8080/actuator/info
+- http://localhost:8080/actuator/health
