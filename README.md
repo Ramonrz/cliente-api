@@ -20,7 +20,7 @@ API Rest, gerenciamento de clientes.
 
 ### Passo 1
 ```shell script
-$ git clone https://github.com/Ramonrz/worldbank.git
+$ git clone https://github.com/Ramonrz/cliente-api.git
 ```
 ### Passo 2 
 ```shell script
