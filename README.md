@@ -1,7 +1,7 @@
 
 # cliente-api
 
-API rest, gerenciamento de clientes.
+API Rest, gerenciamento de clientes.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
