@@ -31,10 +31,6 @@ $ cd cliente-api
 $ mvn clean package
 ```
 ### Passo 4
-```shell script
-$ cd ..
-```
-### Passo 5
 
 ```shell script
 $ docker-compose up --build
