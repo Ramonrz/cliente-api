@@ -1,7 +1,7 @@
 
 # cliente-api
 
-Projeto para demostrar o conceito de API First (Gerenciamento Clientes).
+Projeto para demonstrar o conceito de API First (Gerenciamento Clientes).
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
